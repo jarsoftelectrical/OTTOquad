@@ -53,7 +53,7 @@ int randomDance=0;
 //--    * MODE = 3: Noise detector mode   
 //--    * MODE = 4: OttoPAD or any Teleoperation mode (listening SerialPort). 
 //---------------------------------------------------------
-volatile int MODE=0; //State of Otto in the principal state machine. 
+volatile int MODE=4; //State of Otto in the principal state machine. 
 
 void setup() {
   
@@ -145,10 +145,7 @@ void loop() {
       //-- MODE 0 - Otto is awaiting
       //---------------------------------------------------------
       case 0:
-      robot.putMouth(bigSurprise);
-robot.jump();
-robot.putMouth(happyOpen);
-delay(5000);
+      
 
         break;
       
