@@ -13,10 +13,18 @@ As an open source library, Otto and Myself respect all contributors to the open 
 If you have a question then please post it to the Otto Builder facebook group, this is also a great place for help and advice.
 
 ### How to print:
+You will to print:
+1 x Head (two versions available, Nano I/O shield and GSTDuino)
+1 x Body 7 A (body)
+2 x M-Hips (Legs)
+2 x M-Hips SHAFTS (Pins - 4 needed in total)
+1 x M-Body SHAFTS (Pins - 4 needed in total)
+2 x Single_foot_typeA
+2 x Single_foot_typeB (feet)
 
 Print your Otto Quad, 
 - 20% infil
-- No supports
+- supports for the feet Only as they need to printed as they are provided
 - I use a RAFT to help stick to the bed, this is optional
 - There should be no need to rotate any parts, print as they are shown.
 
