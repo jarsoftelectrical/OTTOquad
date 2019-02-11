@@ -14,13 +14,13 @@ If you have a question then please post it to the Otto Builder facebook group, t
 
 ### How to print:
 You will to print:
-1 x Head (two versions available, Nano I/O shield and GSTDuino)
-1 x Body 7 A (body)
-2 x M-Hips (Legs)
-2 x M-Hips SHAFTS (Pins - 4 needed in total)
-1 x M-Body SHAFTS (Pins - 4 needed in total)
-2 x Single_foot_typeA
-2 x Single_foot_typeB (feet)
+- 1 x Head (two versions available, Nano I/O shield and GSTDuino)
+- 1 x Body 7 A (body)
+- 2 x M-Hips (Legs)
+- 2 x M-Hips SHAFTS (Pins - 4 needed in total)
+- 1 x M-Body SHAFTS (Pins - 4 needed in total)
+- 2 x Single_foot_typeA
+- 2 x Single_foot_typeB (feet)
 
 Print your Otto Quad, 
 - 20% infil
